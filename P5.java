@@ -9,7 +9,7 @@ public class P5 {
     }
 
     public static void main(String[] args) {
-        int n = 6;
+        int n = 7;
         int[][] mat = new int[n][n];
         int row = 0, col = n - 1;
         int p = 1;

@@ -38,7 +38,7 @@ public class P1 {
     }
 
     public static void main(String[] args) {
-        int arr[] = { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
+        int arr[] = { 13, -3, -5, -100, -1 };
         ArrayList<Integer> odd = new ArrayList<>();
         ArrayList<Integer> even = new ArrayList<>();
         ArrayList<Integer> res = new ArrayList<>();
